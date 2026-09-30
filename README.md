@@ -1,5 +1,7 @@
 # The name of your individual project should be "Name_StudentID", like this example
 
+In this README.md, I am just telling you the structure that you need to follow, but the README.md that you submit should describe your own replication
+
 
 ## Project Files and Responsibilities
 The individual project you submitted should follow the structure below. 
