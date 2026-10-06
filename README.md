@@ -1,6 +1,6 @@
 # The name of your individual project should be "Name_StudentID", like this example
 
-In this README.md, I am just telling you the structure that you need to follow, but the README.md that you submit should describe your own replication
+In this README.md, I am just telling you the structure that you need to follow, but the README.md that you submit should describe your own replication. Since this GitHub account is signed in with my HKU email, after you finish your Project, please send a confirmation email to 7chenjeff7@gmail.com to inform me.
 
 
 ## Project Files and Responsibilities
